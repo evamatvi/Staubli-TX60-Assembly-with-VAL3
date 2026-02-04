@@ -37,7 +37,9 @@ This process is repeated 8 times using loop-based logic to handle multiple parts
 
 ## Autors
 
-Eva Matabosch and Iman Tarfass
+Eva Matabosch
+
+Iman Tarfass
 
 
 
