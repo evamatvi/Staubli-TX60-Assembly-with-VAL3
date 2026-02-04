@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller-TX60">
+    <Application>Disk://NovaAplicacio/NovaAplicacio.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="copia2" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx\dio" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx\mdesc" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx\num" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx\pointRx" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx\tool" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="copia2" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\Disk:##NovaAplicacio#NovaAplicacio.pjx" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="copia2" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60" IsExpanded="true" />
+      <Node Path="copia2\Controller-TX60\NovaAplicacio" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches />
+  </Option>
+  <Option Name="ExpressionWatches">
+    <ExpressionWatches>
+      <ExpressionWatch></ExpressionWatch>
+    </ExpressionWatches>
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="true" />
+  </Option>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller-TX60" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="Safety">
+    <Safeties />
+  </Option>
+</CellUserOptions>
