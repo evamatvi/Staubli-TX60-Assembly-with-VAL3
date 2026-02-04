@@ -34,4 +34,9 @@ This process is repeated 8 times using loop-based logic to handle multiple parts
 ## Project Structure
 /src->VAL3 source code
 
+## Autors
+Eva Matabosch 
+Iman Tarfass
+
+
 
