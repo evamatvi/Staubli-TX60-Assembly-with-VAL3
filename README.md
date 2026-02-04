@@ -32,10 +32,13 @@ This process is repeated 8 times using loop-based logic to handle multiple parts
 - User interface messages for execution monitoring  
 
 ## Project Structure
+
 /src->VAL3 source code
 
 ## Autors
+
 Eva Matabosch 
+
 Iman Tarfass
 
 
